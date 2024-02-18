@@ -48,9 +48,9 @@
 </div>
 
 ---
-<div align="right">
+
 https://github-readme-stats.vercel.app/api?username=sudhipkumar&show_icons=true&theme=dracula)
-</div>
+
 
 
 
