@@ -39,6 +39,10 @@
   <a href="mailto:sudhipkumar15@gmail.com">
     <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
+
+  <!-- GitHub Readme Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhipkumar&show_icons=true&theme=dracula)
+
   <a href="https://www.linkedin.com/in/sudhip-kumar-sahoo">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
