@@ -1,9 +1,10 @@
 <h2 align="left">Hi there! 👋 I'm Mauro, a software developer from Brazil.</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&theme=dracula&hide_border=true&hide_rank=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurodesouza&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+  <img src="path/to/github_stats_screenshot.png" height="150" alt="GitHub Stats" />
+  <img src="path/to/top_languages_screenshot.png" height="150" alt="Top Languages" />
 </div>
+
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="GIF" />
 
