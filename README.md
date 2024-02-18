@@ -1,3 +1,4 @@
+# Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <h2 align="left">Hi there! 👋 I'm Mauro, a software developer from Brazil.</h2>
 
 <div align="center">
