@@ -1,9 +1,8 @@
-<div align="center">
+<div align="center flex flex-col">
   <h1 style="margin: 0; padding: 0;">Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
   <h2 style="margin: 0; padding: 0;">I'm Sudhip, a Passionate Software developer from India.</h2>
 </div>
 
-![Header](https://raw.githubusercontent.com/[Your Username]/[Your Repository]/[Your Branch]/[Your Path]/header.gif)
 
 ## About Me
 
