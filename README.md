@@ -6,12 +6,12 @@
 
 ## About Me
 
-- 🌱 I’m currently learning [Current Learning Focus]
-- 👯 I’m looking to collaborate on [Current Project or Goal]
-- 💬 Ask me about [Your Areas of Expertise]
-- 📫 How to reach me: [Your Email or Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact About Yourself]
+- 🔭 I’m currently working as a **Frontend Developer**.
+- 🌱 I’m currently learning **AWS**, **Docker**, and **Redis**.
+- 👯 I’m looking to collaborate on **Full Stack Development** projects.
+- 💬 Ask me about **React**.
+- 📫 How to reach me: [sudhipkumar15@gmail.com](mailto:sudhipkumar15@gmail.com)
+- ⚡ Fun fact: I once climbed Mount Everest Base Camp!
 
 
 
