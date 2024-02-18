@@ -49,7 +49,7 @@
 
 ---
 
-https://github-readme-stats.vercel.app/api?username=sudhipkumar&show_icons=true&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhipkumar&show_icons=true&theme=dracula)
 
 
 
