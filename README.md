@@ -49,5 +49,5 @@
 
 ---
 
-<!-- GitHub contribution graph - Snake animation -->
-![Snake animation](https://github.com/sudhip/sudhip/blob/output/github-contribution-grid-snake.svg)
+<!-- GitHub Readme Stats - Snake animation -->
+![Snake animation](https://raw.githubusercontent.com/sudhip/sudhip/output/github-contribution-grid-snake.svg)
