@@ -1,35 +1,43 @@
-# Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<h2 align="left">Hi there! 👋 I'm Mauro, a software developer from Brazil.</h2>
 
-I'm [Your Name], a [Your Role/Title] who is passionate about [Your Interests/Specializations]. Welcome to my GitHub profile!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&theme=dracula&hide_border=true&hide_rank=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurodesouza&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+</div>
 
-![Header](https://raw.githubusercontent.com/[Your Username]/[Your Repository]/[Your Branch]/[Your Path]/header.gif)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="GIF" />
 
-## About Me
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
+</div>
 
-- 🌱 I’m currently learning [Current Learning Focus]
-- 👯 I’m looking to collaborate on [Current Project or Goal]
-- 💬 Ask me about [Your Areas of Expertise]
-- 📫 How to reach me: [Your Email or Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact About Yourself]
+<div align="left">
+  <a href="https://www.youtube.com/your_channel">
+    <img src="https://img.shields.io/static/v1?label=&message=YouTube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
+  </a>
+  <a href="https://www.instagram.com/your_username">
+    <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
+  </a>
+  <a href="https://www.twitch.tv/your_channel">
+    <img src="https://img.shields.io/static/v1?label=&message=Twitch&color=9146FF&logo=twitch&logoColor=white&style=for-the-badge" height="35" alt="Twitch" />
+  </a>
+  <a href="https://discord.gg/your_invite">
+    <img src="https://img.shields.io/static/v1?label=&message=Discord&color=7289DA&logo=discord&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
+  </a>
+  <a href="mailto:your_email">
+    <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/your_profile">
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+</div>
 
-## Skills
+<br clear="both">
 
-- Programming Languages: [List of Programming Languages]
-- Frameworks & Technologies: [List of Frameworks & Technologies]
-- Tools & Software: [List of Tools & Software]
-- Other Skills: [Any other relevant skills]
-
-## Featured Projects
-
-Here are some of the projects I'm proud of:
-
-- [Project Name](link-to-project): Brief description of the project.
-- [Project Name](link-to-project): Brief description of the project.
-- [Project Name](link-to-project): Brief description of the project.
-
-## Let's Connect!
-
-I'm always open to collaborating on interesting projects or discussing new ideas. Feel free to reach out to me via [LinkedIn](link-to-linkedin) or [Twitter](link-to-twitter).
-
-Thanks for stopping by! 😊
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/github-contribution-grid-snake.svg" alt="Snake animation" />
