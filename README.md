@@ -3,6 +3,17 @@
   <h2 style="margin: 0; padding: 0;">I'm Sudhip, a Passionate Software developer from India.</h2>
 </div>
 
+![Header](https://raw.githubusercontent.com/[Your Username]/[Your Repository]/[Your Branch]/[Your Path]/header.gif)
+
+## About Me
+
+- 🌱 I’m currently learning [Current Learning Focus]
+- 👯 I’m looking to collaborate on [Current Project or Goal]
+- 💬 Ask me about [Your Areas of Expertise]
+- 📫 How to reach me: [Your Email or Contact Information]
+- 😄 Pronouns: [Your Pronouns]
+- ⚡ Fun fact: [Interesting Fact About Yourself]
+
 
 
 
