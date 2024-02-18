@@ -14,8 +14,9 @@
 - ⚡ Fun fact: I once climbed Mount Everest Base Camp!
 
 
+<div style="margin-top: 20px;"></div>
 
-<div align="left" style="margin-top: 20px;">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
