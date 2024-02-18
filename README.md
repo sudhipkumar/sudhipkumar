@@ -49,7 +49,5 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
+<!-- GitHub contribution graph - Snake animation -->
+![Snake animation](https://github.com/sudhip/sudhip/blob/output/github-contribution-grid-snake.svg)
