@@ -48,16 +48,10 @@
 </div>
 
 ---
-
-
-    <!-- GitHub Readme Stats -->
+<div align="right">
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhipkumar&show_icons=true&theme=dracula)
-<!-- Top Languages Card -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudhipkumar&layout=compact&theme=dracula)
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=sudhipkumar&color=blue)
-<!-- GitHub Activity Graph -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sudhipkumar&theme=github)
+</div>
+
 
 
 
