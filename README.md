@@ -49,7 +49,7 @@
 
 ---
 
-<div>
+
     <!-- GitHub Readme Stats -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudhipkumar&show_icons=true&theme=dracula)
 <!-- Top Languages Card -->
@@ -62,5 +62,4 @@
 
 
   
-</div>
 
