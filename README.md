@@ -15,13 +15,6 @@
 
 
 
-
-<div align="center">
-  <img src="path/to/github_stats_screenshot.png" height="150" alt="GitHub Stats" />
-  <img src="path/to/top_languages_screenshot.png" height="150" alt="Top Languages" />
-</div>
-
-
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="GIF" />
 
 <div align="left">
