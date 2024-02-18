@@ -1,5 +1,5 @@
 # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h2 align="left">Hi there! 👋 I'm Mauro, a software developer from Brazil.</h2>
+<h2 align="cenetr">I'm Sudhip, a Passionate Software developer from India.</h2>
 
 <div align="center">
   <img src="path/to/github_stats_screenshot.png" height="150" alt="GitHub Stats" />
