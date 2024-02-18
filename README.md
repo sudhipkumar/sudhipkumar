@@ -14,8 +14,6 @@
 - ⚡ Fun fact: I once climbed Mount Everest Base Camp!
 
 
-<div style="margin-top: 20px;"></div>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
@@ -33,21 +31,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="30" alt="Next.js" />
 </div>
 
-<div style="margin-top: 20px;"></div>
 
 
 <div align="center">
+   <a href="https://www.linkedin.com/in/sudhip-kumar-sahoo">
+    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
   <a href="mailto:sudhipkumar15@gmail.com">
     <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/sudhip-kumar-sahoo">
-    <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
    <a href="https://www.instagram.com/sudhip__">
     <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
 </div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/github-contribution-grid-snake.svg" alt="Snake animation" />
