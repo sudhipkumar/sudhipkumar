@@ -1,5 +1,3 @@
-<!-- Replace [Your Name], [Your Role], [Your Email], and other placeholders with your actual information -->
-
 # Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm [Your Name], a [Your Role/Title] who is passionate about [Your Interests/Specializations]. Welcome to my GitHub profile!
