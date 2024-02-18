@@ -48,6 +48,3 @@
 </div>
 
 ---
-
-<!-- GitHub Readme Stats - Snake animation -->
-![Snake animation](https://raw.githubusercontent.com/sudhipkumar/sudhipkumar/output/github-contribution-grid-snake.svg)
