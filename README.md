@@ -29,32 +29,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="30" alt="Next.js" />
 </div>
 
 
 
-<div align="left">
-  <a href="https://www.youtube.com/your_channel">
-    <img src="https://img.shields.io/static/v1?label=&message=YouTube&color=FF0000&logo=youtube&logoColor=white&style=for-the-badge" height="35" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/your_username">
-    <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
-  </a>
-  <a href="https://www.twitch.tv/your_channel">
-    <img src="https://img.shields.io/static/v1?label=&message=Twitch&color=9146FF&logo=twitch&logoColor=white&style=for-the-badge" height="35" alt="Twitch" />
-  </a>
-  <a href="https://discord.gg/your_invite">
-    <img src="https://img.shields.io/static/v1?label=&message=Discord&color=7289DA&logo=discord&logoColor=white&style=for-the-badge" height="35" alt="Discord" />
-  </a>
-  <a href="mailto:your_email">
+<div align="center">
+  <a href="mailto:sudhipkumar15@gmail.com">
     <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/your_profile">
+  <a href="https://www.linkedin.com/in/sudhip-kumar-sahoo">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+   <a href="https://www.instagram.com/sudhip__">
+    <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
 </div>
 
