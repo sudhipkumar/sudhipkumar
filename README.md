@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-  <h2>I'm Sudhip Kumar Sahoo, a Passionate Software Developer from India.</h2>
+  <h2>I'm Sudhip Kumar Sahoo, a Passionate Software Developer From India.</h2>
 </div>
 
 ## About Me
