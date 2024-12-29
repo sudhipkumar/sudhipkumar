@@ -42,7 +42,7 @@
   <a href="https://www.linkedin.com/in/sudhip-kumar-sahoo" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/sudhip__">
+  <a href="https://www.instagram.com/sudhip__" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=Instagram&color=E4405F&logo=instagram&logoColor=white&style=for-the-badge" height="35" alt="Instagram" />
   </a>
 </div>
