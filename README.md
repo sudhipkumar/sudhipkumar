@@ -39,7 +39,7 @@
   <a href="mailto:sudhipkumar15@gmail.com">
     <img src="https://img.shields.io/static/v1?label=&message=Gmail&color=D14836&logo=gmail&logoColor=white&style=for-the-badge" height="35" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/sudhip-kumar-sahoo">
+  <a href="https://www.linkedin.com/in/sudhip-kumar-sahoo" target="_blank">
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/sudhip__">
